@@ -26,6 +26,7 @@ Post SR27 inclusion, US East Coast - Amazon c5.18xlarge (SR Witness Node)
  - SSD: 1TB, with 600 guaranteed IOPS
  - Network: 25Gbps, with Elastic IP
 
-
+ - We would also aim to run on direct hardware and Microsoft Azure cloud, as there seems to be a large dependency on the Amazon network by SR's, due to the price/performance ratio. Would a significant Amazon outage distrupt the Tron network in its current state?
+ 
  - All production servers to run secure linux distribution, with active monitoring service
  - Operational maintenance and patching to be automated, and verified not less than once per week.
