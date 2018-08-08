@@ -13,3 +13,14 @@ Kirsten has a passion for learning and giving back. With over 10 years’ experi
 
 ## Charles
 In 2007 Charles founded NSI Technology Africa, an Africa-wide technology advisory, solutions and services provider with a primary focus on the financial services industry. Charles has been a crypto enthusiast for a number of years and is passionate about business, security, technology and leveraging these to add value to society. 
+
+## Location
+
+The team is represented by people from the following countries
+ - Kenya
+ - Mauritius
+ - Nigeria
+ - South Africa
+ 
+Would you like to help build a Tron-focused social development community in your country?
+Please get in touch at partners@tronhope.org
